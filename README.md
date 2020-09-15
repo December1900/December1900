@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **December1900/December1900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![December1900's github stats](https://github-readme-stats.vercel.app/api?username=December1900&count_private=true&show_icons=true)](https://github.com/December1900/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=December1900&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
