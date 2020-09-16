@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![December1900's github stats](https://github-readme-stats.vercel.app/api?username=December1900&count_private=true&show_icons=true)](https://github.com/December1900/github-readme-stats)
+[![December1900's github stats](https://github-readme-stats.vercel.app/api?username=December1900&count_private=true&show_icons=true&line_height=20)](https://github.com/December1900/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=December1900&layout=compact)](https://github.com/December1900/github-readme-stats)
 
 
